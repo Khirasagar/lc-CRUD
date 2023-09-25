@@ -1,3 +1,2 @@
 # lc-CRUD
-
-(https://github.com/Khirasagar/lc-CRUD/ray-so-export.png)
+![Image Alt Text](https://github.com/Khirasagar/lc-CRUD/raw/main/ray-so-export.png)
